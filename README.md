@@ -1,2 +1,3 @@
 # Power-BI-Dashboards-
-Power BI Dashboards ⭐
+powerbi-dashboards
+
