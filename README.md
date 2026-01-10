@@ -12,7 +12,7 @@ employee turnover.This project aims to build an interactive Power BI dashboard t
 
 ### 📈 Key Insights
 - Insight 1 - Employees earning up to $5K salary contribute the highest attrition.
-- Attrition decreases sharply as salary increases, with minimal exits in the highest salary slab.
+- Attrition decreases sharply as salary increases, with minimal exits in the highest salary slab..
   
 - Insight 2 - Employees working overtime show a noticeably higher attrition count compared to those without overtime.
 
